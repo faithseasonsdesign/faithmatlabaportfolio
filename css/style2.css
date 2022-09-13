@@ -42,6 +42,8 @@ div li a{
 	right:0;
 	height:50vh;
 	display:none;
+	border-top:solid 40px #302525;
+	background-color:#302525 !important;
 }
 
 /*coding for navigation ended here*/
